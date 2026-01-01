@@ -13,4 +13,4 @@ This repository contains study material related to Motion in Inertial Frames.
 This repository is created for academic learning and project submission.
 
 ## Author
-[Your Name]
+Khuban Azeemi
